@@ -1,0 +1,22 @@
+{
+    "source_glob": "Files/bronze/inbound/*.csv",
+    "tables": {
+      "bronze_raw": "bronze_sales_raw",
+      "silver_clean": "silver_sales_clean",
+      "silver_promo": "silver_promo_pricing",
+      "gold_region_sku": "gold_region_sku_sales",
+      "gold_category": "gold_category_contribution",
+      "gold_bi": "gold_sales_gold_for_bi",
+      "meta_watermark": "meta_watermark",
+      "meta_audit": "meta_audit_log",
+      "dq_errors": "silver_data_quality_errors"
+    },
+    "dq": {
+      "enforce_negative_checks": true,
+      "enforce_null_key_checks": true
+    },
+    "jdbc": {
+      "enabled": false
+    }
+  }
+  
