@@ -61,3 +61,11 @@ across multiple regions and brands, with data quality checks and incremental loa
 - [Code Snippets](./notebooks/)  
 - [Config Files](./config/)  
 
+## 📬 Contact
+
+<p align="left">
+  <a href="mailto:badadanishankar64@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/shankaraling-badadani"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
+  <a href="https://github.com/nanushankar65"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" width="40"/></a>
+  <a href="https://mavenshowcase.com/profile/5861b3d0-c041-706c-0d66-36db709d9de7"><img src="https://img.icons8.com/color/48/000000/upwork.png" width="40"/></a>
+</p>
